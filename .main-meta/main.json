@@ -40,11 +40,20 @@
         "subcategories": [
             "MCC",
             [
-               "Peripherals", "ADC", "EVSYS", "VREF", "USART"
-            ]           			
+               "Peripherals", "ADC"
+            ],     
+		    [
+               "Peripherals", "EVENT SYSTEM"
+            ], 
+            [
+               "Peripherals", "VREF"
+            ], 
+            [
+               "Peripherals", "USART"
+            ] 			
         ],
         "peripherals": [
-            "",""
+            "ADC", "EVENT SYSTEM", "VREF", "USART"
         ],
         "keywords": [
             "mcc",
