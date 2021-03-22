@@ -5,11 +5,11 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-adc-evsys-mcc",
         "version": "1.0.1",
-        "displayName": "AVR128DA48 ADC triggered via Event System - MCC Example",
+        "displayName": "ADC Triggered via Event System - MCC Example",
         "projectName": "avr128da48-cnano-adc-evsys-mcc",
-        "shortDescription": "This repository provides a MPLAB X IDE project with a MCC (MPLAB Code Configurator) generated code example for ADC triggered via Event System",
+        "shortDescription": "This repository provides an MPLAB X IDE project with an MCC (MPLAB Code Configurator) generated code example for ADC triggered via Event System",
         "ide": {
-            "name": "MPLABX",
+            "name": "MPLAB X",
             "semverRange": ">=5.40.0"
         },
         "compiler": [
@@ -38,29 +38,17 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "MCC",
             [
-               "Peripherals", "ADC"
-            ],     
-		    [
-               "Peripherals", "EVENT SYSTEM"
-            ], 
-            [
-               "Peripherals", "VREF"
-            ], 
-            [
-               "Peripherals", "USART"
-            ] 			
+               "Peripherals",
+			   "ADC"
+            ]    			
         ],
         "peripherals": [
-            "ADC", "EVENT SYSTEM", "VREF", "USART"
+            "ADC"
         ],
         "keywords": [
-            "mcc",
-            "adc",	
-			"eventsystem",
-			"vref",
-			"usart"
+            "Event Generation",
+			"Getting Started"
         ],
 		"additionalData": {
 			"longDescription": {
