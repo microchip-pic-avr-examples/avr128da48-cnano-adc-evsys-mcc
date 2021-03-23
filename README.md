@@ -1,6 +1,6 @@
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# ADC Triggered via Event System - MCC Example
+# ADC Conversion Triggered via Event System
 
 This repository provides a MPLAB X IDE project with a MCC (MPLAB Code Configurator) generated code example for ADC triggered via Event System. Using the event system, the on-board user button state change will trigger the ADC0 to start a conversion and read the analog signal from a 10kohm potentiometer on PD1.
 

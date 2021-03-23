@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-adc-evsys-mcc",
         "version": "1.0.1",
-        "displayName": "ADC Triggered via Event System - MCC Example",
+        "displayName": "ADC Conversion Triggered via Event System",
         "projectName": "avr128da48-cnano-adc-evsys-mcc",
         "shortDescription": "This repository provides an MPLAB X IDE project with an MCC (MPLAB Code Configurator) generated code example for ADC triggered via Event System",
         "ide": {
